@@ -1,14 +1,23 @@
 ### Date created
 10/12/2019
+<<<<<<< HEAD
 
 ### Project Title
 Replace the Project Title
+=======
+>>>>>>> documentaion
 
+### Project Titlep
+python
 ### Description
-Describe what your project is about and what it does
 
-### Files used
-Include the files used
 
+<<<<<<< HEAD
 ### Credits.
+=======
+### Files used
+three file used
+
+### Credit
+>>>>>>> documentaion
 www.git.com
