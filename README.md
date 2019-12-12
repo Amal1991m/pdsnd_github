@@ -8,7 +8,6 @@ python
 
 ### Files used
 three file used
-	
 
-### Credits.
+### Credit
 www.git.com
